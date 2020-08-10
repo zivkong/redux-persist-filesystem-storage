@@ -12,7 +12,7 @@
   "scripts": {
     "flow": "flow"
   },
-  "dependencies": {
+  "peerDependencies": {
     "rn-fetch-blob": "^0.12.0"
   },
   "devDependencies": {
